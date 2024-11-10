@@ -25,6 +25,12 @@
     font-weight: 600;
 }
 
+
+.logo-a:hover {
+    text-decoration: none;
+}
+
+
 .logo-text {
 
     background: linear-gradient(to left, #FF0000,  #D9FF00 , #3CFF00);
@@ -125,3 +131,71 @@ h1 {
     padding-bottom: 25px;
 }
 
+section {
+    margin-bottom: 250px;
+}
+
+.description-size {
+    font-size: 44px;
+}
+
+.description-text {
+    font-size: 36px;
+}
+
+#record {
+    background-color: var(--color1);
+    padding: 100px 0;
+}
+
+
+h2 {
+    color: white;
+    text-align: center;
+    padding-bottom: 70PX;
+}
+
+.h2-size {
+    font-size: 48px;
+}
+
+
+
+
+
+
+
+::-webkit-input-placeholder {
+    color:    #A4A4A4;
+}
+
+
+.record-input-text {
+    border-radius: 20px;
+    border: 0;
+    padding: 24px 545px 24px 44px;
+    font-size: 32px;
+
+}
+
+input {
+    color: var(--color1);
+}
+
+
+
+.record-button {
+    padding: 24px 145px;
+    font-size: 32px;
+}
+
+.record-button:hover {
+    color: var(--color1);
+}
+
+
+:focus {
+    outline: 0;
+    outline-offset: 0;
+  }
+  
