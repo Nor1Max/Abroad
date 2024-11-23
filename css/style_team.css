@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&display=swap');
+@import url('https://fonts.cdnfonts.com/css/post-no-bills-jaffna');
+
+* {
+    font-family: 'Post No Bills Jaffna SemiBold', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+:root {
+    --color1: #97AE4A;
+    --color2: #C2BE42;
+    --color3: #AE4A4A;
+}
+
+
+
+.font-2 {
+    font-family: "ADLaM Display", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+
+.font-1 {
+    font-family: 'Post No Bills Jaffna SemiBold', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+.logo-a:hover {
+    text-decoration: none;
+}
+
+
+.logo-text {
+
+    background: linear-gradient(to left, #FF0000,  #D9FF00 , #3CFF00);
+    -webkit-background-clip: text;
+    color: transparent;
+    line-height: 100%;
+    font-size: 22px;
+  }
+
+
+
+
+.container {
+    max-width: 1440px;
+    min-width: 360px;
+    margin: auto;
+    padding: 0;
+
+}
+
+
+
+p {
+    margin: 0;
+}
+
+
+
+nav {
+    padding: 22px 0;
+
+
+}
+
+li, button {
+    font-size: 24px;
+}
+
+li {
+    color: black;
+    list-style: none;
+}
+
+.nav-text {
+    padding-right: 120px;
+}
+
+ul {
+    margin: 0;
+}
+
+button {
+    color: black;
+    border-color: black;
+    background: none;
+    border-radius: 15px;
+    font-weight: 600;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
+    transition: 0.5s;
+}
+
+a,a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+.nav-a, .nav-a:hover {
+    color: var(--color1);
+}
+
+
+.header-button {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+
+#head {
+        -webkit-box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+}
+
+section {
+    margin-bottom: 150px;
+}
+
+
+h1 {
+    font-weight: 600;
+    font-size: 48px;
+    padding-bottom: 150px;
+}
+
+.card-team {
+    width: 640px;
+    height: 1006px;
+    background-color: var(--color3);
+    border-radius: 50px;
+}
+
+.card-name, .card-text, .card-curator {
+    color: white;
+    font-weight: 600;
+}
+
+.card-curator, .card-text {
+    font-size: 32px;
+}
+
+.card-curator {
+    padding-right: 17px;
+}
+
+.card-name {
+    font-size: 48px;
+    padding-bottom: 15px;
+}
+
+.card-img {
+    padding-top: 70px;
+    padding-bottom: 15px;
+}
+
+.card-div-curator {
+    margin-bottom: 5px;
+}
+
+.card-text {
+    padding-top: 30px;
+}
+
+.card-margin {
+    margin: 100px 0;
+}
+
+.card-2 {
+    height: 1054px;
+}
+
+#cards {
+    margin-bottom: 250px;
+}
+
+
+.help-button {
+    padding: 24px 104px;
+    font-size: 32px;
+    border-color: white;
+    color: white;
+}
+
+.help-button:hover {
+    color: var(--color1);
+    background-color: white;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 54px;
+    padding-bottom: 60px;
+    color: white;
+}
+
+#help {
+    height: 500px;
+    background-color: var(--color1);
+    margin: 0;
+}
+
+footer {
+    height: 100px;
+    -webkit-box-shadow: 0px -4px 8px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px -4px 8px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px -4px 8px 0px rgba(0, 0, 0, 0.2);
+}
+
+.footer-img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
