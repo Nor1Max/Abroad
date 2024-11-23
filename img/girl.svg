@@ -1,9 +1,5 @@
 <svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<mask id="path-1-inside-1_396_221" fill="white">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M400 200C400 310.457 310.457 400 200 400C89.5431 400 0 310.457 0 200C0 89.5431 89.5431 0 200 0C310.457 0 400 89.5431 400 200Z"/>
-</mask>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M400 200C400 310.457 310.457 400 200 400C89.5431 400 0 310.457 0 200C0 89.5431 89.5431 0 200 0C310.457 0 400 89.5431 400 200Z" fill="url(#pattern0_396_221)"/>
-<path d="M200 402C311.562 402 402 311.562 402 200H398C398 309.352 309.352 398 200 398V402ZM-2 200C-2 311.562 88.4385 402 200 402V398C90.6477 398 2 309.352 2 200H-2ZM200 -2C88.4385 -2 -2 88.4385 -2 200H2C2 90.6476 90.6477 2 200 2V-2ZM402 200C402 88.4385 311.562 -2 200 -2V2C309.352 2 398 90.6476 398 200H402Z" fill="white" mask="url(#path-1-inside-1_396_221)"/>
 <defs>
 <pattern id="pattern0_396_221" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_396_221" transform="translate(-0.485123 -0.151667) scale(0.00175025)"/>
